@@ -5,14 +5,16 @@
             "name": "Spicy Lovers Special",
             "deadline": "15/04/2025",
             "description": "Giảm ngay 25% cho tất cả các món cay, bao gồm Chẳng Dừng Rang Lá Chanh, Cà Ri Tôm Ấn Độ và Gỏi Hải Sản Thái Lan!",
-            "bonus": "Đơn hàng trên $30 với món cay sẽ được tặng kèm một ly trà sả đá miễn phí."
+            "bonus": "Đơn hàng trên $30 với món cay sẽ được tặng kèm một ly trà sả đá miễn phí.",
+            "url": "https://dinkynguyentrai.com.vn/uu-dai-dat-tiec-tat-nien-tron-goi/"
         },
         {
             "ID": "2",
             "name": "Spring Feast Combo",
             "deadline": "20/04/2025",
             "description": "Gọi ngay Combo Tiệc Xuân (1 món chính + 1 món khai vị + 1 món tráng miệng) để được giảm $10!",
-            "bonus": "Chỉ áp dụng cho 100 suất đầu tiên – nhanh tay kẻo lỡ!"
+            "bonus": "Chỉ áp dụng cho 100 suất đầu tiên – nhanh tay kẻo lỡ!",
+            "url": "https://dinkynguyentrai.com.vn/uu-dai-dat-tiec-cong-ty-tron-goi/"
         }
     ]
 }
